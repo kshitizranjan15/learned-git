@@ -8,6 +8,7 @@ public class q67 {
 		x=n+n*n+n*n*n;
 		System.out.println(x);
                 System.out.println("in dev branch");
+                System.out.println("kshitiz");
 
 	}
 
