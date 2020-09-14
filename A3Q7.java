@@ -40,6 +40,7 @@ public class A3Q7 {
         {
         	System.out.println("( "+x+", "+y+") lies on X-axis");
         }
+               System.out.println("something new came");
 	}
 
 }
